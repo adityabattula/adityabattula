@@ -28,6 +28,7 @@
 
 ![Windows](https://img.shields.io/badge/Windows-000000?badge&logo=windows&logoColor=0078D6)
 ![Apple](https://img.shields.io/badge/Apple-000000.svg?adge&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?badge&logo=linux&logoColor=0078D6)
 <br>
 <br>
  
