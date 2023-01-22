@@ -37,5 +37,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?&logo=github)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![StarUML](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javatpoint.com%2Fuml-tools&psig=AOvVaw0XZCG0-5pYxL3Nr6eQSNj8&ust=1674506436727000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNi9-d-E3PwCFQAAAAAdAAAAABAI)
 <br>
 <br>
