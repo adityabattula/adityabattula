@@ -27,8 +27,8 @@
 **⭐Operating systems I can work with :**
 
 ![Windows](https://img.shields.io/badge/Windows-000000?badge&logo=windows&logoColor=0078D6)
-![Apple](https://img.shields.io/badge/Apple-000000.svg?adge&logo=apple&logoColor=white)
-![Linux](https://skillicons.dev/icons?i=linux&theme=light)
+![Apple](https://skillicons.dev/icons?i=apple&theme=light)
+![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
 <br>
 <br>
  
