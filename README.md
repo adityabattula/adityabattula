@@ -22,6 +22,7 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![Java](https://skillicons.dev/icons?i=java,figma&theme=light)](https://skillicons.dev)
 
 <br>
 **⭐Operating systems I can work with :**
