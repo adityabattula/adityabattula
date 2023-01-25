@@ -17,10 +17,9 @@
 
 **⭐Languages I can work with :**
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/C++-000000?for-the-badge&logo=c%2B%2B&logoColor=%2300599C)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![C](https://skillicons.dev/icons?i=c&theme=light)
+![C++](https://skillicons.dev/icons?i=c++&theme=light)
+![HTML5](https://skillicons.dev/icons?i=html5&theme=light)
 ![Python](https://skillicons.dev/icons?i=python&theme=light)
 ![Java](https://skillicons.dev/icons?i=java&theme=light)
 
