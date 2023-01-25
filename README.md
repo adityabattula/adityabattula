@@ -18,8 +18,8 @@
 **⭐Languages I can work with :**
 
 ![C](https://skillicons.dev/icons?i=c&theme=light)
-![C++](https://skillicons.dev/icons?i=c++&theme=light)
-![HTML5](https://skillicons.dev/icons?i=html5&theme=light)
+![C++](https://skillicons.dev/icons?i=cpp&theme=light)
+![HTML5](https://skillicons.dev/icons?i=html&theme=light)
 ![Python](https://skillicons.dev/icons?i=python&theme=light)
 ![Java](https://skillicons.dev/icons?i=java&theme=light)
 
