@@ -2,7 +2,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"> this is Aditya Battula, persuing B.tech in CSE with Specialization in AI  & ML in SRMIST <br><br>
 
 ![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityabattula&show_icons=true&theme=transparent)
-[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityabattula&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityabattula&langs_count=8)
 
 
 <br><br><img align="center" img src="https://github-readme-streak-stats.herokuapp.com/?user=adityabattula&theme=neon-dark" />
