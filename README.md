@@ -34,9 +34,9 @@
  
 **⭐Stuffs I can work with :**
  
-![GitHub](https://img.shields.io/badge/-GitHub-000000?&logo=github)
+![Github](https://skillicons.dev/icons?i=github&theme=dark)
 ![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Pycharm](https://skillicons.dev/icons?i=pycharm&theme=dark)
 ![StarUML](https://img.shields.io/badge/StarUML-000000?badge&logo=staruml&logoColor=0078D6)
 <br>
 <br>
