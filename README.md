@@ -22,7 +22,7 @@
 ![HTML5](https://skillicons.dev/icons?i=html&theme=dark)
 ![Python](https://skillicons.dev/icons?i=python&theme=dark)
 ![Java](https://skillicons.dev/icons?i=java&theme=dark)
-
+![CSS](https://skillicons.dev/icons?i=css&theme=dark)
 <br>
 **⭐Operating systems I can work with :**
 
