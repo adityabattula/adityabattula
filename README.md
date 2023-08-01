@@ -1,43 +1,28 @@
-![](https://komarev.com/ghpvc/?username=adityabattula&color=32CD32)
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"> this is Aditya Battula, persuing B.tech in CSE with Specialization in AI  & ML in SRMIST <br><br>
+<h1 align="center">Hi 👋, I'm Aditya Battula</h1>
+<h3 align="center">Pursuing Bachelors of Technology in CSE with Specialization in AI & ML in SRMIST</h3>
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityabattula&show_icons=true&theme=transparent)<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityabattula&langs_count=8)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityabattula&label=Profile%20views&color=0e75b6&style=flat" alt="adityabattula" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityabattula" alt="adityabattula" /></a> </p>
 
-<br><br><img align="center" img src="https://github-readme-streak-stats.herokuapp.com/?user=adityabattula&theme=neon-dark" />
- 
-**⭐Platforms to find me :**
- 
-[![Email](https://img.shields.io/badge/-EMAIL-ff0000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abattula14@gmail.com?subject=[GitHub])
-[![Instagram](https://img.shields.io/badge/instagram-864879.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adi_oneandonly)
-[![Github](https://img.shields.io/badge/github-202020.svg?style=for-the-badge&logo=github)](https://www.github.com/adityabattula)
-[![Discord](https://img.shields.io/badge/discord-7289da.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/HAWK#8434)
-<br>
+- Projects I have recently Worked on [GRADES-datacleaning-JSON](https://github.com/adityabattula/GRADES-datacleaning-JSON-)
 
-**⭐Skills:**
+- 🌱 I’m currently learning **ML/DL, Web Scraping**
 
-![C](https://skillicons.dev/icons?i=c&theme=dark)
-![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
-![HTML5](https://skillicons.dev/icons?i=html&theme=dark)
-![Python](https://skillicons.dev/icons?i=python&theme=dark)
-![Java](https://skillicons.dev/icons?i=java&theme=dark)
-![CSS](https://skillicons.dev/icons?i=css&theme=dark)
-![Numpy](https://img.shields.io/badge/Numpy-purple)
-<br>
-**⭐Operating systems I can work with :**
+- 📫 How to reach me **adityabattula17@gmail.com**
 
-![Windows](https://img.shields.io/badge/Windows-000000?badge&logo=windows&logoColor=0078D6)
-![Apple](https://img.shields.io/badge/Windows-000000?badge&logo=apple&logoColor=0078D6)
-![Linux](https://img.shields.io/badge/Windows-000000?badge&logo=linux&logoColor=0078D6)
-<br>
-<br>
- 
-**⭐Stuffs I can work with :**
- 
-![Github](https://skillicons.dev/icons?i=github&theme=dark)
-![VSCode](https://img.shields.io/badge/-VSCode-000?&logo=Visual%20Studio%20Code&logoColor=007ACC)
-![Pycharm](https://skillicons.dev/icons?i=pycharm&theme=dark)
-![StarUML](https://img.shields.io/badge/StarUML-000000?badge&logo=staruml&logoColor=0078D6)
-<br>
-<br>
+- 📄 Know about my experiences [https://www.canva.com/design/DAFm7oDtQBc/a4CcsdvmQOQQY8-BVj8Suw/edit?utm_content=DAFm7oDtQBc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFm7oDtQBc/a4CcsdvmQOQQY8-BVj8Suw/edit?utm_content=DAFm7oDtQBc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/@adityabattula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@adityabattula" height="30" width="40" /></a>
+<a href="https://instagram.com/adi_oneandonly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adi_oneandonly" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@ab3025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@ab3025" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityabattula&show_icons=true&locale=en&layout=compact" alt="adityabattula" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityabattula&" alt="adityabattula" /></p>
