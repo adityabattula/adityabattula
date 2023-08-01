@@ -15,7 +15,7 @@
 [![Discord](https://img.shields.io/badge/discord-7289da.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/HAWK#8434)
 <br>
 
-**⭐Languages I can work with :**
+**⭐Skills:**
 
 ![C](https://skillicons.dev/icons?i=c&theme=dark)
 ![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
@@ -23,6 +23,7 @@
 ![Python](https://skillicons.dev/icons?i=python&theme=dark)
 ![Java](https://skillicons.dev/icons?i=java&theme=dark)
 ![CSS](https://skillicons.dev/icons?i=css&theme=dark)
+![Numpy](https://img.shields.io/badge/Numpy-purple)
 <br>
 **⭐Operating systems I can work with :**
 
