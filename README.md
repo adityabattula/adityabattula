@@ -13,7 +13,7 @@
 
 - Data-Cleaning(SQL) [IMDB_Data_Science](https://github.com/adityabattula/IMDB_Data_Science)
 
-- 📫 How to reach me **adityabattula17@gmail.com**
+- 📫 How to reach me **abattula14@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFm7oDtQBc/a4CcsdvmQOQQY8-BVj8Suw/edit?utm_content=DAFm7oDtQBc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFm7oDtQBc/a4CcsdvmQOQQY8-BVj8Suw/edit?utm_content=DAFm7oDtQBc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
